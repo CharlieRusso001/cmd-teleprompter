@@ -7,3 +7,12 @@ Current Features
 2. Allows input of text within the command line
 3. Allows the user to select WPM at which the words show up
 4. Pause or resume with the space bar
+
+
+Setup and use:
+
+1. Create an environment if you choose to do so
+2. pip install keyboard
+3. python prompter.py
+
+Everything should work from here
